@@ -38,7 +38,7 @@ manage sequences through a graphical editor.
 
 ## Screenshots
 
-*Add screenshots or an animated demonstration here.*
+<img width="798" height="723" alt="image" src="https://github.com/user-attachments/assets/82917d04-8d59-467a-a380-1cfbb303d7fc" />
 
 ## Requirements
 
