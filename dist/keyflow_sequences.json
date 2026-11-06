@@ -1,0 +1,139 @@
+{
+  "f9": [
+    {
+      "type": "key",
+      "key": "b"
+    },
+    {
+      "type": "click",
+      "x": 2500,
+      "y": 680
+    },
+    {
+      "type": "wait",
+      "seconds": 0.1
+    },
+    {
+      "type": "click",
+      "x": 860,
+      "y": 40,
+      "button": "left"
+    },
+    {
+      "type": "wait",
+      "seconds": 0.1
+    },
+    {
+      "type": "click",
+      "x": 560,
+      "y": 390,
+      "button": "left"
+    },
+    {
+      "type": "wait",
+      "seconds": 0.1
+    },
+    {
+      "type": "click",
+      "x": 3930,
+      "y": 1300,
+      "button": "left"
+    }
+  ],
+  "f10": [
+    {
+      "type": "key",
+      "key": "b"
+    },
+    {
+      "type": "click",
+      "x": 2500,
+      "y": 680
+    },
+    {
+      "type": "wait",
+      "seconds": 0.1
+    },
+    {
+      "type": "click",
+      "x": 860,
+      "y": 40,
+      "button": "left"
+    },
+    {
+      "type": "wait",
+      "seconds": 0.1
+    },
+    {
+      "type": "click",
+      "x": 1720,
+      "y": 390,
+      "button": "left"
+    },
+    {
+      "type": "wait",
+      "seconds": 0.1
+    },
+    {
+      "type": "click",
+      "x": 3930,
+      "y": 1300,
+      "button": "left"
+    }
+  ],
+  "f12": [
+    {
+      "type": "key",
+      "key": "b"
+    },
+    {
+      "type": "click",
+      "x": 2500,
+      "y": 680
+    },
+    {
+      "type": "wait",
+      "seconds": 0.1
+    },
+    {
+      "type": "click",
+      "x": 860,
+      "y": 40,
+      "button": "left"
+    },
+    {
+      "type": "wait",
+      "seconds": 0.1
+    },
+    {
+      "type": "click",
+      "x": 2280,
+      "y": 390,
+      "button": "left"
+    },
+    {
+      "type": "wait",
+      "seconds": 0.1
+    },
+    {
+      "type": "click",
+      "x": 3930,
+      "y": 1300,
+      "button": "left"
+    }
+  ],
+  "f2": [
+    {
+      "type": "click",
+      "x": 2935,
+      "y": 704,
+      "button": "left"
+    },
+    {
+      "type": "wait",
+      "random": true,
+      "min": 0.05,
+      "max": 0.1
+    }
+  ]
+}
